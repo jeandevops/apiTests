@@ -1,0 +1,8 @@
+{% extends 'teste.html' %}
+{% block conteudo %}
+    {% for pessoa in context %}
+    {% if pessoa.nome != 'jean' %}
+    <h1>{{ pessoa.nome }}</h1>
+    {% endif %}
+    {% endfor %}    
+{% endblock conteudo %}
