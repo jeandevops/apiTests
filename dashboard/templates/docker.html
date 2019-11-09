@@ -1,3 +1,4 @@
+<!-- A PRIMEIRA LINHA DESTE ARQUIVO (A QUE ESTA EM JINJA2) DIZ QUE ESTA PAGINA SOFRE HERANCA DA PAGINA base.html (ISSO E BOM PARA REUSO DE CODIGO)-->
 {% extends "base.html" %}
 {% block title %}Docker{% endblock title %}
 {% block content %}
@@ -23,8 +24,10 @@
                         </tr>
                     </thead>
                     <tbody>
+                        <!--- LOOP for EM JINJA2 PARA EXIBIR O CONTEUDO DO OBJETO ctrs ENVIADO -->
                         {% for container in ctrs %}
                         <tr>
+                            <!-- O USO DAS FUNCOES .shor_id, .name.title, .image.tags, etc SAO PROPRIAS DO OBJETO CRIADO (USANDO O MODULO DOCKER) -->
                             <th scope="row">{{container.short_id}}</th>
                             <td>{{container.name.title()}}</td>
                             <td>{{container.image.tags[0]}}</td>
@@ -32,6 +35,7 @@
                             <td>
                                 <div class="row">
                                     <div class="col-sm-12 text-center">
+                                        <!--- CONDICIONAL PARA EXIBIR BOTOES APROPRIADAMENTE -->
                                         {% if container.status != "running" %}
                                         <a href="/docker/start/{{container.short_id}}" class="btn btn-primary">Iniciar</a>
                                         {% else %}
