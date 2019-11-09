@@ -15,6 +15,8 @@ app.register_blueprint(docker)
 
 app.register_blueprint(gitlab)
 
+app.register_blueprint(jenkins)
+
 @app.route("/")
 def index():
     return render_template("index.html")
