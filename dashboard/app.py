@@ -6,6 +6,8 @@ from modulos.dockerm import docker
 
 from modulos.gitlabm import gitlab
 
+from modulos.jenkinsm import jenkins
+
 app = Flask(__name__)
 
 # USAMOS BLUEPRINT PARA CHAMAR OUTROS MODULOS (ESTA E A FORMA QUE O FLASK MODULARIZA)
