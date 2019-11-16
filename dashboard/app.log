@@ -1,0 +1,38 @@
+[ 16-11-19-18-10-38] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[ 16-11-19-18-10-38] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 16-11-19-18-10-38] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 16-11-19-18-10-38] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
+[ 16-11-19-18-13-32] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [16/Nov/2019 18:13:32] "GET / HTTP/1.1" 200 -
+[ 16-11-19-18-14-06] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Detected change in '/home/developer/apiTests/dashboard/app.py', reloading
+[ 16-11-19-18-14-06] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 16-11-19-18-14-07] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 16-11-19-18-14-07] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
+[ 16-11-19-18-14-34] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Detected change in '/home/developer/apiTests/dashboard/modulos/jenkinsm.py', reloading
+[ 16-11-19-18-14-34] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 16-11-19-18-16-09] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[ 16-11-19-18-16-09] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 16-11-19-18-16-09] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 16-11-19-18-16-09] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
+[ 16-11-19-18-17-54] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Detected change in '/home/developer/apiTests/dashboard/modulos/jenkinsm.py', reloading
+[ 16-11-19-18-17-54] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 16-11-19-18-17-54] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 16-11-19-18-17-54] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383

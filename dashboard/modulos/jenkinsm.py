@@ -14,6 +14,7 @@ def index():
 @jenkins.route("/build/<string:name>")
 def jenkins_build(name):
     con.build_job(name)
+    logging.info("update build {}".format(name))
     sleep(5)
     return redirect("/jenkins")
 
