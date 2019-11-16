@@ -38,7 +38,7 @@
                                         <!--- CONDICIONAL PARA EXIBIR BOTOES APROPRIADAMENTE -->
                                         {% if container.status != "running" %}
                                         <a href="/docker/start/{{container.short_id}}" class="btn btn-primary">Iniciar</a>
-                                        {% else %}
+                                        {% else %}  <!-- THREAT THIS BUTTON IF YOUR API IS RUNNING ON CONTAINER (TO DON'T SHOW AN "AUTO DESTRUCTION BUTTON" -->
                                         <a href="/docker/stop/{{container.short_id}}" class="btn btn-warning">Parar</a>
                                         {% endif %}
                                     </div>

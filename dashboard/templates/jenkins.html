@@ -18,17 +18,23 @@
                         </tr>
                     </thead>
                     <tbody>
+                        {% for job in jobs %}
                         <tr>
-                            <td>==NOME DO JOB==</td>
+                            <td>{{ job.name }}</td>
                             <td>
-                                <img src="==IMAGEM DE ESTADO DO JENKINS==" alt="Icon">
+                                {% if job.color == 'blue' %}
+                                <img src="{{ url_for('static', filename='img/blue.png')}}" alt="Icon">
+                                {% else %}
+                                <img src="{{ url_for('static', filename='img/red.png')}}" alt="Icon">
+                                {% endif %}
                             </td>
-                            <td>==STATUS DO ULTIMO BUILD==</td>
+                            <td>{{ job.color }}</td>
                             <td>
                                 <a href="/jenkins/build/==NOME DO JOB==" class="glyphicon glyphicon-repeat"></a>
                                 <a href="/jenkins/update/==NOME DO JOB==" class="glyphicon glyphicon-pencil"></a>
                             </td>
                         </tr>
+                        {% endfor %}
                     </tbody>
                 </table>
             </div>

@@ -3,7 +3,8 @@ from docker import DockerClient
 
 # NESTE EXEMPLO NOS JA DECLARAMOS O url_prefix, POR ISSO O PARAMETRO DO @docker.route() está vazio
 docker = Blueprint("docker_routes", __name__, url_prefix="/docker")
-con = DockerClient("tcp://127.0.0.1:2376")
+# CHANGE TO DOCKER ENGINE MACHINE DNS/IP
+con = DockerClient("tcp://localhost:2376")
 
 # ESTA ROTA JA TEM A RAIZ PADRAO COMO /docker (DECLARADO ACIMA)
 @docker.route("")
