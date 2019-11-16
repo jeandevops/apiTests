@@ -13,7 +13,6 @@
                         <tr>
                             <th>Job</th>
                             <th>Status</th>
-                            <th>Ultima vez</th>
                             <th>Ações</th>
                         </tr>
                     </thead>
@@ -28,10 +27,9 @@
                                 <img src="{{ url_for('static', filename='img/red.png')}}" alt="Icon">
                                 {% endif %}
                             </td>
-                            <td>{{ job.color }}</td>
                             <td>
-                                <a href="/jenkins/build/==NOME DO JOB==" class="glyphicon glyphicon-repeat"></a>
-                                <a href="/jenkins/update/==NOME DO JOB==" class="glyphicon glyphicon-pencil"></a>
+                                <a href="/jenkins/build/{{job.name}}" class="glyphicon glyphicon-repeat"></a>
+                                <a href="/jenkins/update/{{job.name}}" class="glyphicon glyphicon-pencil"></a>
                             </td>
                         </tr>
                         {% endfor %}
