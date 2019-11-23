@@ -36,3 +36,205 @@
 [ _log ] [_internal.py, 122 ]  * Debugger is active!
 [ 16-11-19-18-17-54] [INFO ] werkzeug
 [ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
+[ 23-11-19-12-54-20] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[ 23-11-19-12-54-20] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 23-11-19-12-54-20] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 23-11-19-12-54-20] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
+[ 23-11-19-12-57-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:57:59] "GET / HTTP/1.1" 200 -
+[ 23-11-19-12-57-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:57:59] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+[ 23-11-19-12-57-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:57:59] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+[ 23-11-19-12-57-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:57:59] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+[ 23-11-19-12-57-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:57:59] "GET /favicon.ico HTTP/1.1" 404 -
+[ 23-11-19-12-57-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:57:59] "GET /favicon.ico HTTP/1.1" 404 -
+[ 23-11-19-12-58-34] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:58:34] "POST / HTTP/1.1" 302 -
+[ 23-11-19-12-58-34] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:58:34] "GET / HTTP/1.1" 200 -
+[ 23-11-19-12-58-40] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:58:40] "POST / HTTP/1.1" 302 -
+[ 23-11-19-12-58-40] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 12:58:40] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-00-51] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:00:51] "POST / HTTP/1.1" 302 -
+[ 23-11-19-13-00-51] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:00:51] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-11-44] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Detected change in '/home/developer/apiTests/dashboard/app.py', reloading
+[ 23-11-19-13-11-44] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 23-11-19-13-11-44] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 23-11-19-13-11-44] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
+[ 23-11-19-13-14-20] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Detected change in '/home/developer/apiTests/dashboard/app.py', reloading
+[ 23-11-19-13-14-20] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 23-11-19-13-14-20] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 23-11-19-13-14-20] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
+[ 23-11-19-13-20-56] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Detected change in '/home/developer/apiTests/dashboard/app.py', reloading
+[ 23-11-19-13-20-56] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 23-11-19-13-21-32] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[ 23-11-19-13-21-32] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 23-11-19-13-21-32] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 23-11-19-13-21-32] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
+[ 23-11-19-13-22-06] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:22:06] "POST / HTTP/1.1" 302 -
+[ 23-11-19-13-22-06] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:22:06] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-22-11] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:22:11] "POST / HTTP/1.1" 302 -
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _new_conn ] [connectionpool.py, 225 ] Starting new HTTP connection (1): localhost:2376
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/json?all=1&trunc_cmd=0&size=0&limit=-1 HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/dcbfe0861a2a640d93ac38badc902f769f1f91d69920263c06210935850115ef/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/68917a025d4b516e421743dd367ad7e69e74615def774b8341c7a6e8258e3616/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/9354bee48aabe1ed110c41e5ed9216596ea6fc0678534f8782cddf8e95dc4f4c/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/2aaed8042819457cd3ee1606c5b8b97283fe906a6b9a293077fc48ce490d5f5a/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/ae8f77ee367ae4efc3b40e8d6769a041092765f228a08649782d2027aaf01605/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/0f487e75d5386bf8646d73eaff64ee22c4f5a3e8e87cd7c93f696f2c778cee24/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/bedadbdc72d33d94ec319e6184deda9e692615c63bf220e435d55f5836aea47c/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/cf0f3ca922e08045795f67138b394c7287fbc0f4842ee39244a1a1aaca8c5e1c/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/dedfcca6934dfa49fb905a8de1e882a2e83d3c8b37c1674bb6eb8d06064596b1/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/17d5117a2e3715b4632b30df670f1768082a5d0c9a578112cf468c346eceb481/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/17d5117a2e3715b4632b30df670f1768082a5d0c9a578112cf468c346eceb481/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/8e9f8546050da8aae393a41d65ad37166b4f0d8131d627a520c0f0451742e9d6/json HTTP/1.1" 200 1919
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/965ea09ff2ebd2b9eeec88cd822ce156f6674c7e99be082c7efac3c62f3ff652/json HTTP/1.1" 200 1921
+[ 23-11-19-13-22-11] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/cf0f3ca922e08045795f67138b394c7287fbc0f4842ee39244a1a1aaca8c5e1c/json HTTP/1.1" 200 None
+[ 23-11-19-13-22-11] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:22:11] "GET /docker HTTP/1.1" 200 -
+[ 23-11-19-13-22-11] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:22:11] "GET /static/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/json?all=1&trunc_cmd=0&size=0&limit=-1 HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/dcbfe0861a2a640d93ac38badc902f769f1f91d69920263c06210935850115ef/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/68917a025d4b516e421743dd367ad7e69e74615def774b8341c7a6e8258e3616/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/9354bee48aabe1ed110c41e5ed9216596ea6fc0678534f8782cddf8e95dc4f4c/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/2aaed8042819457cd3ee1606c5b8b97283fe906a6b9a293077fc48ce490d5f5a/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/ae8f77ee367ae4efc3b40e8d6769a041092765f228a08649782d2027aaf01605/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/0f487e75d5386bf8646d73eaff64ee22c4f5a3e8e87cd7c93f696f2c778cee24/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/containers/bedadbdc72d33d94ec319e6184deda9e692615c63bf220e435d55f5836aea47c/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/cf0f3ca922e08045795f67138b394c7287fbc0f4842ee39244a1a1aaca8c5e1c/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/dedfcca6934dfa49fb905a8de1e882a2e83d3c8b37c1674bb6eb8d06064596b1/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/17d5117a2e3715b4632b30df670f1768082a5d0c9a578112cf468c346eceb481/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/17d5117a2e3715b4632b30df670f1768082a5d0c9a578112cf468c346eceb481/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/8e9f8546050da8aae393a41d65ad37166b4f0d8131d627a520c0f0451742e9d6/json HTTP/1.1" 200 1919
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/965ea09ff2ebd2b9eeec88cd822ce156f6674c7e99be082c7efac3c62f3ff652/json HTTP/1.1" 200 1921
+[ 23-11-19-13-25-46] [DEBUG ] urllib3.connectionpool
+[ _make_request ] [connectionpool.py, 437 ] http://localhost:2376 "GET /v1.35/images/cf0f3ca922e08045795f67138b394c7287fbc0f4842ee39244a1a1aaca8c5e1c/json HTTP/1.1" 200 None
+[ 23-11-19-13-25-46] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:25:46] "GET /docker HTTP/1.1" 200 -
+[ 23-11-19-13-25-46] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:25:46] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+[ 23-11-19-13-25-46] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:25:46] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-25-46] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:25:46] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-25-49] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:25:49] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-25-52] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:25:52] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-25-58] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:25:58] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-26-42] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:26:42] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-26-42] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:26:42] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+[ 23-11-19-13-26-42] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:26:42] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+[ 23-11-19-13-26-42] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:26:42] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+[ 23-11-19-13-29-58] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:58] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-29-58] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:58] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+[ 23-11-19-13-29-58] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:58] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-29-58] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:58] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-29-59] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:29:59] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-30-00] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:30:00] "GET / HTTP/1.1" 200 -
+[ 23-11-19-13-30-00] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:30:00] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+[ 23-11-19-13-30-00] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:30:00] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-30-00] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ] 127.0.0.1 - - [23/Nov/2019 13:30:00] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+[ 23-11-19-13-31-13] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Detected change in '/home/developer/apiTests/dashboard/app.py', reloading
+[ 23-11-19-13-31-13] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Restarting with stat
+[ 23-11-19-13-31-13] [WARNING ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger is active!
+[ 23-11-19-13-31-13] [INFO ] werkzeug
+[ _log ] [_internal.py, 122 ]  * Debugger PIN: 331-153-383
