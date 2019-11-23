@@ -58,4 +58,4 @@ def logout_dashboard():
 if __name__ == "__main__":
     # TO PROTECT THE SESSION
     app.secret_key = urandom(12)
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0")

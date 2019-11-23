@@ -3,7 +3,7 @@
 {% block content %}
 
 <!-- Validando a sessão -->
-{% if session %}
+{% if session["auth"] %}
                     
 {% else %}
 <div class="container">
