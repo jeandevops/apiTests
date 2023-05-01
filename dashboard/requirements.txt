@@ -1,4 +1,4 @@
-Flask==1.1.1
+Flask==2.3.2
 docker==4.1.0
 requests==2.22.0
 python-gitlab==1.13.0
